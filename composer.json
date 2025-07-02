@@ -1,0 +1,17 @@
+{
+  "name": "jodi/php-composer-library",
+  "description": "Library Composer Hello",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Jodi\\PhpComposerLibrary\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Jodi Jonatan",
+      "email": "jdi102350@gmail.com"
+    }
+  ],
+  "require": {}
+}
