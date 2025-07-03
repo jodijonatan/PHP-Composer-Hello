@@ -13,5 +13,7 @@
       "email": "jdi102350@gmail.com"
     }
   ],
-  "require": {}
+  "require": {
+    "php": ">=8.0"
+  }
 }
